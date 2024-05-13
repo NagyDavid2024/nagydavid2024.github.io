@@ -1,0 +1,50 @@
+body{
+    background-color: #FFF5E8;
+}
+.jobbra{
+    float: right;
+    margin-left: 20px;
+}
+.balra{
+    float: left;
+    margin-right: 20px;
+}
+img{
+    width: 300px;
+    max-height: 315px;
+}
+a{
+    
+}
+h1,h2{
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background-image: url(felso.jpg);
+    height: 355px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#container{
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+        text-indent: 25px;
+}
+li{
+    list-style-image: url(felsorolas.png);
+
+}
+footer{
+    background-color: gainsboro;
+    height: 125px;
+}
+#kicsi{
+    float:  right;
+    height: 105px;
+    width: 105px;
+}
+p{
+    padding-top: 20px;
+}
